@@ -31,9 +31,8 @@ export const Work = [
         name:"Portfolio Website ",
         description:"A cool looking portfolio with  great user experience and build using react and framer motion",
         tags:["React&Rectrouter","styledComponents",,"framer-motion"],
-        
-        demo:"",
-        github:""
+        demo:"https://murtuza-portfolio.vercel.app/",
+        github:"https://github.com/PeelayMurtuza/MurtuzaFolio"
        
     }  
   
