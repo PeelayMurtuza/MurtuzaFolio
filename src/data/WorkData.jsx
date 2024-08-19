@@ -23,8 +23,8 @@ export const Work = [
         name:"Masjid Website",
         description:"Real Time Masjid Website that Uses Reactjs,TailwindCss and LcomotiveJs for Smooth Scrollingv",
         tags:["react","api","Inprogress"],
-        demo:"",
-        github:""
+        demo:"dokla-masjid.vercel.app",
+        github:"https://github.com/PeelayMurtuza/Dokla_Masjid"
     },
     {
         id:4,
